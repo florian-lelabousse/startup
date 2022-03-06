@@ -1,0 +1,52 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+
+body {  
+	color: #524A4E;
+ font-family: 'Josefin Sans', sans-serif;
+	font-size: 20px;
+	margin:  0px;
+
+}
+
+
+h1,h2,h3 {
+	font-family: 'Amatic SC', cursive;
+	color: #876445;
+	font-weight: bold;
+	padding-left: 20px;
+	color: black;
+	
+}
+
+h2 {
+	color: white ;
+}
+
+h1 {
+	color: #BB6464;
+}
+a {
+	text-decoration: none;
+	color: blue;
+	font-weight: 600;
+	font-size: 20px;
+	transition: color 0.3s ease;
+}
+
+a:hover {
+	color: black;
+}
+
+
+
+
+
+
+
